@@ -1,22 +1,19 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">Technical Support Engineer I</h2>
+      <h2 class="about-header">IT Support Engineer</h2>
       <ul>
         <li>
-          Field customer support phone calls, emails and live chats from students, teachers and system administrators
+          Leveraged comprehensive knowledge of Microsoft products and tools to provide comprehensive technical support to small and medium-sized businesses
         </li>
         <li>
-          Refer to, use, and understand API documentation to aid in troubleshooting
+          Employed exceptional problem-solving skills to quickly identify and resolve IT issues
         </li>
         <li>
-          Average over 100 support cases per week as a parttime agent to manage case volume
+          Assisted individuals of all age groups and technical backgrounds, from laymen to seasoned IT professionals
         </li>
         <li>
-          Maintain an average of 95% CSAT and 90% case resolution on the first contact to improve customer experience
-        </li>
-        <li>
-          Recognized as a top 12% performer in the department for Q2 2021
+          Recognized as a top 5% performer in the department during my time at the company
         </li>
       </ul>
     </div>

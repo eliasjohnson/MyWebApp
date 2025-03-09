@@ -1,7 +1,7 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">Software Engineer -> Software Engineer II</h2>
+      <h2 class="about-header">IT Support Technician</h2>
       <ul>
         <li>
           Develop highly available and performant services in languages such as Ruby, Javascript and Typescript
