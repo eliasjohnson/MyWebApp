@@ -1,15 +1,15 @@
 <template>
   <div>
     <Slide width="300" right>
-      <a id="home" href="/">
+      <router-link id="home" to="/">
         <span>Home</span>
-      </a>
+      </router-link>
       <a id="Projects" target="_blank" href="https://projects.eliasjohnson.com">
         <span>Projects</span>
       </a>
-      <a id="Experience" href="experience">
+      <router-link id="Experience" to="/experience">
         <span>Experience</span>
-      </a>
+      </router-link>
     </Slide>
   </div>
 </template>
@@ -35,9 +35,24 @@ export default {
 </script>
 
 <style>
-
 .bm-burger-bars {
   background-color: #686868;
 }
 
+/* Add styling for router-link components */
+.router-link-active {
+  color: #42b983;
+}
+
+a, router-link {
+  display: block;
+  padding: 10px 0;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+
+a:hover, router-link:hover {
+  color: #42b983;
+}
 </style>
