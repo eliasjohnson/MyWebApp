@@ -18,7 +18,7 @@
       </ul>
     </div>
     <div class="image animate__animated animate__zoomInDown animate__delay-4s">
-      <img class="logo" src="../assets/microsoft.svg" alt="Canvas Logo" height="150px" width="150px"/>
+      <img class="logo" src="../assets/realmicrosoft.webp" alt="Canvas Logo" height="150px" width="150px"/>
     </div>
   </div>
 </template>
