@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/MyWebApp/',
+  publicPath: '/Portfolio/',
   outputDir: 'dist'
 }
