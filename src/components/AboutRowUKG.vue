@@ -1,24 +1,21 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">Specialty Support II</h2>
+      <h2 class="about-header">Web Developer</h2>
       <ul>
         <li>
-          Triage and resolve customer submitted product issues via phone and email
+          Developed and maintained Provo School of the Arts website using Squarespace and custom JavaScript.
         </li>
         <li>
-          Document and track known Issues with Jira and Salestorce to assist development and other support teams
+          Implemented the school's custom Squarespace forms and integrations with Google workspace and Venmo.
         </li>
         <li>
-          Write, use and share SQL scripts to assist in the troubleshooting/debugging process
-        </li>
-        <li>
-          Consult industry professionals on HRMS software best practices to improve their understanding ofthe product
+          Created custom Squarespace templates and components for the school's website.
         </li>
       </ul>
     </div>
     <div class="image animate__animated animate__zoomInDown animate__delay-3s">
-      <img class="logo" src="../assets/ukg.svg" alt="UKG Logo" height="150px" width="150px"/>
+      <img class="logo" src="../assets/ProvoSchool.svg" alt="Logo" height="150px" width="150px"/>
     </div>
   </div>
 </template>

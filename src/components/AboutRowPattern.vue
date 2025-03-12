@@ -4,25 +4,19 @@
       <h2 class="about-header">IT Support Technician</h2>
       <ul>
         <li>
-          Develop highly available and performant services in languages such as Ruby, Javascript and Typescript
+          Achieved top performance in ticket resolution for four consecutive quarters using FreshService ITSM.
         </li>
         <li>
-          Design, plan, document and deliver a new microservice in greenfield SaaS project
+          Managed IT infrastructure and hardware onsite and remotely.
         </li>
         <li>
-          Participate in frequent code reviews both as reviewer and reviewee
+          Successfully onboarded 500+ employees and reduced onboarding times by 66%.
         </li>
         <li>
-          Implement CI/CD pipelines using Terraform and Github Actions
+          Developed custom workflows and scripts to integrate various APIs.
         </li>
         <li>
-          Deploy and manage AWS cloud resources on platforms such as Lambda, DynamoDB, ECS, RDS and Opensearch
-        </li>
-        <li>
-          Perform product demos for stakeholders during development benchmarks and upon project completion
-        </li>
-        <li>
-          Document system design, architecture, and workflows for training and org level visibility
+          Collaborated with cross-functional teams to make processes more efficient.
         </li>
       </ul>
     </div>

@@ -1,33 +1,39 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">BS Computer Science - Cum Laude</h2>
+      <h2 class="about-header">BS Information Systems & Computer Science Minor</h2>
       <ul>
         <li>
-          Advanced Object Oriented Programming - Java
+          Object Oriented Programming - Python
         </li>
         <li>
-          Algorithm Design & Analysis - Python
+          Data Structures and Algorithms - Python
         </li>
         <li>
-          Data Structures and Discrete Structures - C++
+          Database Theory - MySQL
         </li>
         <li>
-          Web Development - MEVN stack
+          Data Science - Python & R
         </li>
         <li>
-          Computational Linear Algebra - Python
+          Web Application Development - Full Stack
         </li>
         <li>
-          Computer Systems - C
+          Advanced Statistical Methods - R
         </li>
         <li>
-          Android Development - Java
+          Data Security Analytics - Kali Linux
+        </li>
+        <li>
+          Marketing & Organizational Behavior
+        </li>
+        <li>
+          Business Intelligence - Tableau
         </li>
       </ul>
     </div>
     <div class="image animate__animated animate__zoomInDown animate__delay-2s">
-      <img class="logo" src="../assets/byu.svg" alt="BYU Logo" height="150px" width="150px"/>
+      <img class="logo" src="../assets/UVU.svg" alt="UVU Logo" height="150px" width="150px"/>
     </div>
   </div>
 </template>

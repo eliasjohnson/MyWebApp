@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="home-container">
     <Nav class="nav"/>
     <Banner class="banner"></Banner>
   </div>
@@ -31,14 +31,14 @@ export default {
 </script>
 
 <style scoped>
-
-template{
-  background: #000000;
+.home-container {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
 }
 
-.banner{
+.banner {
   padding-bottom: 25px;
-  z-index: -1;
+  /* Removed negative z-index */
 }
-
 </style>

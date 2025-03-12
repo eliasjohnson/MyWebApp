@@ -4,7 +4,7 @@
       <router-link id="home" to="/">
         <span>Home</span>
       </router-link>
-      <a id="Projects" target="_blank" href="https://projects.eliasjohnson.com">
+      <a id="Projects" target="_blank" href="https://provoschoolofthearts.com">
         <span>Projects</span>
       </a>
       <router-link id="Experience" to="/experience">
